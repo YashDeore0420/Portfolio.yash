@@ -512,7 +512,7 @@ export default function App() {
       {/* FOOTER */}
       <footer className="px-6 md:px-10 py-8 flex flex-col sm:flex-row items-center justify-between gap-4" style={{ borderTop: "1px solid var(--border)" }}>
         <p className="font-mono-label text-xs" style={{ color: "var(--muted-foreground)" }}>© 2026 Yash Deore. All rights reserved.</p>
-        <p className="font-mono-label text-xs" style={{ color: "var(--muted-foreground)" }}>Navi Mumbai, India · Open to opportunities</p>
+        <p className="font-mono-label text-xs" style={{ color: "var(--muted-foreground)" }}>Navi Mumbai,India · Open to opportunities</p>
       </footer>
     </div>
   );
